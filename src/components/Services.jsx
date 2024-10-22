@@ -1,6 +1,7 @@
-import servicesImg1 from '../assetss/0001.jpg';
-import servicesImg2 from '../assetss/0002.jpg';
-import servicesImg3 from '../assetss/0003.jpg';
+import servicesImg1 from '../../public/images/wedding/0001.jpg';
+import servicesImg2 from '../../public/images/wedding/0002.jpg';
+import servicesImg3 from '../../public/images/wedding/0003.jpg';
+import servicesImg4 from '../../public/images/wedding/0004.jpg';
 
 export default function Services() {
 

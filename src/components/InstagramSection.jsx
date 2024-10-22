@@ -1,9 +1,9 @@
 // import instaImg1 from '../assets/insta-img-1.jpg';
-import instaImg1 from '../assetss/0001.jpg';
-import instaImg2 from '../assetss/0002.jpg';
-import instaImg3 from '../assetss/0003.jpg';
-import instaImg4 from '../assetss/0004.jpg';
-import instaImg5 from '../assetss/0005.jpg';
+import instaImg5 from '../../public/images/wedding/0005.jpg';
+import instaImg4 from '../../public/images/wedding/0004.jpg';
+import instaImg3 from '../../public/images/wedding/0003.jpg';
+import instaImg2 from '../../public/images/wedding/0002.jpg';
+import instaImg1 from '../../public/images/wedding/0001.jpg';
 
 export default function InstagramSection() {
   const instaImages = [
