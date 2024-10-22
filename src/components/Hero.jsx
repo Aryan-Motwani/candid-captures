@@ -15,7 +15,7 @@ export default function Hero() {
             <source src={videoBg} type="video/mp4" />
             Your browser does not support the video tag.
         </video>
-        <div className="bg-black/50 absolute top-0 left-0 right-0 bottom-0 -z-[1]"></div>
+        {/* <div className="bg-black/50 absolute top-0 left-0 right-0 bottom-0 -z-[1]"></div> */}
         <div className="wrapper flex items-center justify-between min-h-screen lg:min-h-[800px] text-white">
             {/* Uncomment and update content as needed */}
             {/* <div className="max-w-[550px] pt-[128px] pb-[64px]">
