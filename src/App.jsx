@@ -7,6 +7,7 @@ import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import ScrollToTop from "./components/ScrollToTop";
 import Layout from "./components/Layout";
+import PortfolioGallery from "./pages/PortfolioGallery";
 
 function App() {
   const [open, setOpen] = useState(false);
@@ -22,6 +23,7 @@ function App() {
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/portfolio2" element={<PortfolioGallery />} />
       </Routes>
       </AnimatePresence>
       </Layout>

@@ -1,8 +1,9 @@
-import instaImg1 from '../assets/insta-img-1.jpg';
-import instaImg2 from '../assets/insta-img-2.jpg';
-import instaImg3 from '../assets/insta-img-3.jpg';
-import instaImg4 from '../assets/insta-img-4.jpg';
-import instaImg5 from '../assets/insta-img-5.jpg';
+// import instaImg1 from '../assets/insta-img-1.jpg';
+import instaImg1 from '../assetss/0001.jpg';
+import instaImg2 from '../assetss/0002.jpg';
+import instaImg3 from '../assetss/0003.jpg';
+import instaImg4 from '../assetss/0004.jpg';
+import instaImg5 from '../assetss/0005.jpg';
 
 export default function InstagramSection() {
   const instaImages = [
@@ -43,12 +44,12 @@ export default function InstagramSection() {
         </div>
         <div className="bg-black/35 absolute h-full w-full top-0 left-0"></div>
         <a
-          href="https://www.instagram.com/nemanjaphotography_/"
+          href="https://www.instagram.com/candidcapturesbysomeshnihalani/"
           target="_blank"
           aria-label="Visit Instagram page"
           className="bg-white absolute p-4 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 "
         >
-          @nemanjaphotography_
+          @candidcapturesbysomeshnihalani
         </a>
       </div>
     </section>

@@ -19,7 +19,7 @@ export default function About() {
           <div className="wrapper pt-[120px] pb-[66px] md:pt-[170px] md:pb-[132px]">
             <div className="lg:flex items-center lg:gap-24">
               <div className="mb-8 lg:hidden">
-                <h2 className="mb-4">Let's introduce myself</h2>
+                <h2 className="mb-4">Somesh Nihalani</h2>
                 <p className="uppercase text-slate-500 text-xs">
                   Exclusive Photographer for IStock - Photo Editor
                 </p>
@@ -32,15 +32,15 @@ export default function About() {
               </div>
               <div className="lg:w-1/2">
                 <div className="hidden mb-8 lg:block">
-                  <h2 className="mb-4">Let's introduce myself</h2>
+                  <h2 className="mb-4">Somesh Nihalani</h2>
                   <p className="uppercase text-slate-500 text-xs">
                     Exclusive Photographer for IStock - Photo Editor
                   </p>
                 </div>
                 <p className="mb-4">Welcome to my photography portfolio!</p>
                 <p className="mb-4">
-                  I'm Nemanja Mohenski, a passionate photographer from Niš,
-                  Serbia. My journey began with a simple curiosity about
+                  I'm Somesh Nihalani, a passionate photographer from
+                  India. My journey began with a simple curiosity about
                   capturing the world around me. Over time, this curiosity grew
                   into a deep love for photography. I find joy in exploring the
                   diverse landscapes and vibrant cultures of my homeland, always

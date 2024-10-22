@@ -32,15 +32,15 @@ export default function Contact() {
                 <ul className="space-y-3 hidden md:block md:pt-8">
                   <li className="flex items-center space-x-3">
                     <BsFillEnvelopeFill />
-                    <span>nemanja.mohenski@gmail.com</span>
+                    <span>candidcaptures@gmail.com</span>
                   </li>
                   <li className="flex items-center space-x-3">
                     <FaPhoneAlt />
-                    <span>+381 69 101 9376</span>
+                    <span>+91 9890009988</span>
                   </li>
                   <li className="flex items-center space-x-3">
                     <PiMapPinFill />
-                    <span>Niš, Serbia</span>
+                    <span>Aurangabad, MH</span>
                   </li>
                 </ul>
               </div>
