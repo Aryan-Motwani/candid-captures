@@ -10,7 +10,7 @@ export default function Contact() {
   return (
     <HelmetProvider>
       <Helmet>
-        <title>NM Photography | Contact</title>
+        <title> Candid Captures | Contact</title>
         <meta
           name="description"
           content="Get in touch with NM for photography inquiries, collaborations, or booking sessions. We're here to help you capture your moments beautifully."

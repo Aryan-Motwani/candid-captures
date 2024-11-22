@@ -10,7 +10,7 @@ export default function Home() {
     return (
         <HelmetProvider>
         <Helmet>
-                <title>NM Photography | Home</title>
+                <title> Candid Captures | Home</title>
                 <meta name="description" content="Welcome to NM Photography portfolio. Discover breathtaking images and explore the artistry behind each shot." />
             </Helmet>
         <PageAnimation>

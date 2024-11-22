@@ -16,7 +16,7 @@ export default function Footer() {
                         iStock
                     </a> */}
                 </div>
-                <p>&copy; {currentYear} NM Photography. Developed by <a href="https://www.instagram.com/flikcards/" target="_blank" className="underline">Aryan Motwani</a></p>
+                <p>&copy; {currentYear} Candid Captures. Developed by <a href="https://www.instagram.com/flikcards/" target="_blank" className="underline">Aryan Motwani</a></p>
             </div>
         </footer>
   )

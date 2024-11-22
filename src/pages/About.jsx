@@ -3,18 +3,22 @@ import aboutImg from "../assets/about-img.jpg";
 import PageAnimation from "../components/PageAnimation";
 import Footer from "../components/Footer";
 import InstagramSection from "../components/InstagramSection";
+import Navbar from "../components/Navbar";
 
 export default function About() {
   return (
     <HelmetProvider>
       <Helmet>
-        <title>NM Photography | About</title>
+        <title> Candid Captures | About</title>
         <meta
           name="description"
           content="Learn more about Nemanja, the photographer behind the lens. Discover his journey, inspirations, and passion for photography."
         />
+        
       </Helmet>
+
       <PageAnimation>
+
         <main>
           <div className="wrapper pt-[120px] pb-[66px] md:pt-[170px] md:pb-[132px]">
             <div className="lg:flex items-center lg:gap-24">

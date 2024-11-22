@@ -1,0 +1,41 @@
+/* Ensure that the gallery items retain their aspect ratio */
+.react-gallery-grid .gallery-item {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease;
+  }
+  
+  .react-gallery-grid .gallery-item:hover {
+    transform: scale(1.05); /* Optional zoom effect on hover */
+  }
+  
+  /* Misalignment between the columns */
+  .react-gallery-grid .gallery-item:nth-child(odd) {
+    margin-left: 20px; /* Create slight misalignment */
+  }
+  
+  .react-gallery-grid .gallery-item:nth-child(even) {
+    margin-right: 20px; /* Create slight misalignment */
+  }
+  
+  /* Add transition for smooth appearance of images */
+  .gallery-item {
+    opacity: 0;
+    transform: scale(0.9);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .gallery-item.visible {
+    opacity: 1;
+    transform: scale(1);
+  }
+  
+  /* Responsive gallery layout */
+  @media (max-width: 768px) {
+    .react-gallery-grid .gallery-item {
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+    }
+  }
+  

@@ -3,7 +3,7 @@ import videoBg from '../assets/hero-video.mp4';
 
 export default function Hero() {
   return (
-    <section id="hero-section" className="relative">
+    <section id="hero-section" className="relative" style={{height : "110vh"}}>
         <video
           autoPlay
           muted
