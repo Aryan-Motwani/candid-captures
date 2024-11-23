@@ -66,8 +66,8 @@ export default function Menu({ open, setOpen }) {
 
     const navLinks = [
         {name: 'Home', url: '/'},
-        {name: 'Portfolio', url: '/portfolio'},
-        {name: 'Portfolio Grid', url: '/portfolio2'},
+        {name: 'Pre Wedding', url: '/pre-wedding'},
+        {name: 'Portraits', url: '/portrait'},
         {name: 'About', url: '/about'},
         {name: 'Contact', url: '/contact'},
     ]

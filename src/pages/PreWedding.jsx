@@ -72,7 +72,7 @@ export default function PreWedding() {
       </Helmet>
       <PageAnimation>
         <main>
-          <div className="wrapper min-h-screen pt-[120px] pb-[50px] md:pt-[170px] md:pb-[100px]">
+          <div className="wrapper min-h-screen pt-[120px] pb-[50px] md:pt-[170px] md:pb-[100px] mt-10">
             <div className="flex justify-between gap-y-4 gap-x-8 mb-[50px] flex-wrap">
               <h2>Pre Wedding</h2>
               <div className="flex flex-wrap gap-y-2 gap-x-1">
